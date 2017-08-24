@@ -1,0 +1,7 @@
+mids_severity,severity
+Critical,critical
+High,high
+Medium,medium
+Low,low
+Informational,informational
+N/A,unknown

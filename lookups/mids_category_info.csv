@@ -1,0 +1,60 @@
+mids_category,category
+ICMP:,IP Anomaly
+P2P:,P2P
+DCERPC:,Windows RPC
+NETBIOS-SS:,Linux RPC Anomaly
+NETBIOS-NS:,RPC Anomaly
+RPC:,RPC Anomaly
+SMB:,RPC Anomaly
+Netbios-NS:,RPC Anomaly
+SentinelLM:,Sentinel License Manager Traffic
+RDP:,Bad Remote Desktop Traffic
+VNC:,Bad Remote Desktop Traffic
+HTTP:,HTTP Traffic
+IM:,Instant Messaging
+Kerberos:,Authentication Traffic Anomaly
+LDAP:,Authentication Traffic Anomaly
+SSL:,SSL
+DHCP:,DHCP
+DNS:,DNS
+IRC:,IRC Chat
+SMTP:,Mail
+Exploitkit:,BOT
+ExploitKit:,BOT
+Exploit-kit:,BOT
+IMAP:,Mail
+POP3:,Mail
+BOT:,BOT
+WORM:,BOT
+TELNET:,telnet
+ORACLE:,Database Anomaly
+Oracle:,Database Anomaly
+MSSQL:,Database Anomaly
+MYSQL:,Database Anomaly
+MySQL:,Database Anomaly
+NOVELL:,Novell
+TCP:,IP Anomaly
+Outbound,Outbound Anomaly
+Inbound,Inbound Anomaly
+SOCKS:,Tunnel
+ADOBE:,Adobe Application
+NMAP:,Network Reconnaissance
+SCAN:,Network Reconnaissance
+SHELLCODE:,Exploit Attempt
+FTP:,FTP Anomaly
+RTSP:,Streaming Media Anomaly
+DoS:,DoS attack
+Malware:,Malware
+BACKDOOR:,Malware
+RAT:,Malware
+IPv4:,IP Anomaly
+IGMP:,IP Anomaly
+IP:,IP Anomaly
+WGET:,Possible WGET exploit Activity
+IKE:,VPN Anomaly
+SYMANTEC:,Symantec Anomaly Traffic
+SCADA:,SCADA Traffic Anomaly
+SIP:,SIP Traffic Anomaly
+SSH:,SSH Traffic Anomaly
+RSYNC:,RSYNC Traffic Anomaly
+SNMP:,SNMP Traffic Anomaly

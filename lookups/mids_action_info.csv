@@ -1,0 +1,7 @@
+mids_action,action
+Attack Successful,allowed
+Inconclusive,allowed
+n/a,allowed
+Smart Blocked,blocked
+Attack Blocked,blocked
+Attack Failed,blocked
